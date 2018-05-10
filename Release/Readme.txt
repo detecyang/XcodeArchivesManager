@@ -1,0 +1,3 @@
+XcodeArchivesManager
+这是一个管理Xcode打包文件的工具。
+随着产品开发日积月累，Xcode生成的安装包越来越多，使用自带的Organizer管理很麻烦，很卡，所以写了这个小工具。程序本身没有什么技术含量，权当Mac开发入门了。
